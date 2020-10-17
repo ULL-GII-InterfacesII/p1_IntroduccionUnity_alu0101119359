@@ -58,5 +58,5 @@ Creé dos scripts. Uno que toma todos los objetos directamente bajo la escena, g
 Otro que se añade a cada GameObject como componente. Te permite dar una id personalizada al objeto. Como id predeterminada toma la id de objecto de Unity.
 [HeyIamHere](scripts/HeyIamHere.cs)
 
-![Console](img\console.PNG)
+![Console](img/console.PNG)
 
