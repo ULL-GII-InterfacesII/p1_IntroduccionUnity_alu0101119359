@@ -29,7 +29,7 @@ Añadí a la esfera y el cubo el componente Light, ajusté el color, la intensid
 
 - Incluir un personaje como Ethan, de los Standard Assets:
 
-Aquí me confundí y use uno de la Asset Store, unity-chan. Desactivé el script de Face Update    ya que su UI es molesta y no se usaría. Le añadí la cámara principal, para tener una perspectiva    de 3ª persona.
+Aquí me confundí y use uno de la Asset Store, unity-chan. Desactivé el script de Face Update    ya que su UI es molesta y no se usaría. Le añadí la cámara principal, para tener una perspectiva de 3ª persona.
 ![chanT](img/chan_T.PNG)
 ![chanCam](img/chan_camera.PNG)
 
